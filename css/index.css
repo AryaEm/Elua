@@ -57,7 +57,7 @@ body {
 }
 
 .to-home {
-  padding: 10px 28px;
+  padding: 12px 38px;
   border-radius: 10px;
   border: 1.5px solid white;
   background-color: transparent;
@@ -107,7 +107,7 @@ body {
   border-radius: 50%;
   position: absolute;
   top: 200px;
-  left: 950px;
+  left: 1050px;
 }
 
 .photo-3 {
@@ -120,7 +120,7 @@ body {
   border-radius: 50%;
   position: absolute;
   top: 0;
-  left: 270px;
+  left: 310px;
 }
 
 .photo-4 {
@@ -133,7 +133,7 @@ body {
   border-radius: 50%;
   position: absolute;
   top: 165px;
-  left: 235px;
+  left: 260px;
 }
 
 .photo-5 {
@@ -146,7 +146,7 @@ body {
   border-radius: 50%;
   position: absolute;
   top: 35px;
-  left: 430px;
+  left: 520px;
 }
 
 .photo-6 {
@@ -158,7 +158,7 @@ body {
   height: 165px;
   border-radius: 50%;
   position: absolute;
-  top: 300px;
+  top: 310px;
   left: 25px;
 }
 
@@ -171,8 +171,8 @@ body {
   height: 140px;
   border-radius: 50%;
   position: absolute;
-  top: 315px;
-  left: 570px;
+  top: 340px;
+  left: 670px;
 }
 
 .photo-8 {
@@ -185,7 +185,7 @@ body {
   border-radius: 50%;
   position: absolute;
   top: 240px;
-  left: 740px;
+  left: 840px;
 }
 
 .photo-9 {
@@ -197,8 +197,8 @@ body {
   height: 180px;
   border-radius: 50%;
   position: absolute;
-  top: 110px;
-  left: 550px;
+  top: 130px;
+  left: 600px;
 }
 
 .photo-10 {
@@ -210,8 +210,8 @@ body {
   height: 200px;
   border-radius: 50%;
   position: absolute;
-  top: 20px;
-  left: 750px;
+  top: 0;
+  left: 850px;
 }
 
 .photo-11 {
@@ -224,7 +224,7 @@ body {
   border-radius: 50%;
   position: absolute;
   top: 0;
-  left: 580px;
+  left: 680px;
 }
 
 .photo-12 {
@@ -249,7 +249,34 @@ body {
   height: 115px;
   border-radius: 50%;
   position: absolute;
-  top: 60px;
-  left: 985px;
+  top: 100px;
+  left: 1300px;
+}
+
+
+.photo-14 {
+  background-image: url(/assets/IMG-20240205-WA0018.jpg);
+  /* background-color: #fff; */
+  background-size: 180%;
+  background-position: 50% 70%;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  position: absolute;
+  top: 0;
+  left: 1460px;
+}
+
+.photo-15 {
+  background-image: url(/assets/IMG-20240206-WA0002.jpg);
+  /* background-color: #fff; */
+  background-size: 180%;
+  background-position: 50% 70%;
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  position: absolute;
+  top: 240px;
+  left: 1380px;
 }
 
